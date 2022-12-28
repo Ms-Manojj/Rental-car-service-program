@@ -3,6 +3,6 @@ I have done rental car service project (python program) in this project we are g
 
 Code:
 first we have a form - customer will fill the form with the required details then we will show the total amount per select car -- (per car rent will be 5000).
-If the customer is intratest to If the customer is interested in renting a car, we will proceed for further processing.
+If the customer is interested in renting a car, we will proceed for further processing.
 
 We will also update the data in our server if all the cars are hired
