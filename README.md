@@ -1,8 +1,6 @@
-# Rental-car-service-program
-I have done rental car service project (python program) in this project we are giving the car on rent for travel and tourism for 1 to 5 days and 1 day's charges will be 5000 per cars. This project is for beginner level only thanks.
+I have completed car Rental Service Project using python program, in this project we are giving the car on rent for travel and tourism for 1 to 5 days and fix amount will be charged for 1 day's per car. 
+This project is for beginner level only 
 
-Code:
-first we have a form - customer will fill the form with the required details then we will show the total amount per selected car -- (per car rent will be 5000).
-If the customer is interested in renting a car, we will proceed for further processing.
+thanks. 
 
-We will also update the data in our server if all the cars are hired
+Code: first we have a form – when customer will fill-up the form with the required details then total amount will display per selected car -- (Rental charges will be display as per selected car). If the customer is interested to take car on rental, we will proceed for further processing and data base server will also updated.
